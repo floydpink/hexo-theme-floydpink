@@ -1,16 +1,18 @@
-# Hiker
+# floydpink
 
-[![Build Status](https://travis-ci.org/iTimeTraveler/hexo-theme-hiker.svg?branch=master)](https://travis-ci.org/iTimeTraveler/hexo-theme-hiker)		[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/iTimeTraveler/hexo-theme-hiker/blob/master/LICENSE)
+> A grateful fork of [Hiker](https://github.com/iTimeTraveler/hexo-theme-hiker)
+
+[![Build Status](https://travis-ci.org/floydpink/hexo-theme-floydpink.svg?branch=master)](https://travis-ci.org/floydpink/hexo-theme-floydpink)		[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/floydpink/hexo-theme-floydpink/blob/master/LICENSE)
 
 
 An attractive, exquisite theme for [Hexo]. named "Hiker", short for "HikerNews".  
 
-[**☞ Live Preview**](https://itimetraveler.github.io/hexo-theme-hiker/)  |  [**✎ Hiker 中文版使用文档**](https://github.com/iTimeTraveler/hexo-theme-hiker/blob/master/README.cn.md)
+[**☞ Live Preview**](https://itimetraveler.github.io/hexo-theme-hiker/)  |  [**✎ Hiker 中文版使用文档**](https://github.com/floydpink/hexo-theme-floydpink/blob/master/README.cn.md)
 
 
 ![Desktop Preview](https://itimetraveler.github.io/hexo-theme-hiker/2016/10/24/Hiker%E4%B8%BB%E9%A2%98%E9%A2%84%E8%A7%88/homepage-index.png)
 ![Post Preview](https://itimetraveler.github.io/hexo-theme-hiker/2016/10/24/Hiker%E4%B8%BB%E9%A2%98%E9%A2%84%E8%A7%88/article-chrome.png)
-![Mobile Preview](https://github.com/iTimeTraveler/hexo-theme-hiker/blob/master/source/preview/preview-mobile.png?raw=true)
+![Mobile Preview](https://github.com/floydpink/hexo-theme-floydpink/blob/master/source/preview/preview-mobile.png?raw=true)
 
 <!--more-->
 
@@ -19,7 +21,7 @@ An attractive, exquisite theme for [Hexo]. named "Hiker", short for "HikerNews".
  1. Get it from GitHub
 
  ```shell
- $ git clone https://github.com/iTimeTraveler/hexo-theme-hiker.git themes/hiker
+ $ git clone https://github.com/floydpink/hexo-theme-floydpink.git themes/floydpink
  ```
  2. Enable
 
@@ -60,7 +62,7 @@ since: 2013
 # Set default keywords (Use a comma to separate)
 keywords: ""
 
-# Put your favicon.ico or avatar.jpg into `hexo-site/themes/hiker/source/` directory.
+# Put your favicon.ico or avatar.jpg into `hexo-site/themes/floydpink/source/` directory.
 avatar: 
   enable: true
   border: true
@@ -112,7 +114,7 @@ search:
 
 
 # comment ShortName, you can choose only ONE to display.
-duoshuo_shortname: iTimeTraveler
+duoshuo_shortname: floydpink
 disqus_shortname:
 
 
@@ -206,7 +208,7 @@ Hiker use [Tomorrow Theme](https://github.com/chriskempson/tomorrow-theme) for y
 
 Above preview picture is default theme. the image below show other five Highlight themes.
 
-![code themes](https://github.com/iTimeTraveler/hexo-theme-hiker/blob/master/source/preview/code-theme.jpg?raw=true)
+![code themes](https://github.com/floydpink/hexo-theme-floydpink/blob/master/source/preview/code-theme.jpg?raw=true)
 
 Modify `highlight_theme` in hiker/_config.yml.
 
@@ -222,7 +224,7 @@ highlight_theme: default
 
 Hiker provide five color themes for your blog.
 
-![theme colors](https://github.com/iTimeTraveler/hexo-theme-hiker/blob/master/source/preview/theme-color.png?raw=true)
+![theme colors](https://github.com/floydpink/hexo-theme-floydpink/blob/master/source/preview/theme-color.png?raw=true)
 
 - <span style="display: inline-block; width: 18px; height: 18px; margin: 0 4px; background-color: #fb6d19; border-radius: 3px; vertical-align: middle;"></span> orange
 - <span style="display: inline-block; width: 18px; height: 18px; margin: 0 4px; background-color: #00aced; border-radius: 3px; vertical-align: middle;"></span> blue
@@ -293,13 +295,13 @@ Hiker has native support for DuoShuo & Disqus comment systems. Modify the follow
 
 ```yml
 # comment ShortName, you can choose only ONE to display.
-duoshuo_shortname: iTimeTraveler
+duoshuo_shortname: floydpink
 disqus_shortname: 
 ```
 
 ## Browser support
 
-![](https://github.com/iTimeTraveler/hexo-theme-hiker/blob/master/source/preview/browser-support.png?raw=true)
+![](https://github.com/floydpink/hexo-theme-floydpink/blob/master/source/preview/browser-support.png?raw=true)
 
 
 ## Contributing
